@@ -84,7 +84,7 @@ Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 l
 <h2 align="left">Contact me 📞</h2>
 <br>
 <div align="left">
-    <a href="https://www.facebook.com/xuan.loc.912541" target="top" onclick="return false;" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+    <a href="https://www.facebook.com/Loccovr2" target="top" onclick="return false;" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
     <a href="https://github.com/Loccovr2" target="top"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
