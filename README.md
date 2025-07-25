@@ -2,7 +2,7 @@
 <h2>👋😊 Hi! I’m Loc. </h2> 
 I’m an IT student at the University of Information Technology (UIT) in Ho Chi Minh City, halfway through my degree. I’m expanding my expertise in front-end development and will soon delve into back-end technologies. My goal is to strengthen my development skills and explore new technologies. I love learning and building things that are creative, fun, and innovative.
 
-- 📚 I’m currently learning:
+📚 I’m currently learning:
 <p >
 <p width="40"> </p><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a>
 </p>
@@ -32,10 +32,10 @@ Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 l
 </div>
 
 <br>
-
+<!--
 <h2 align="left">🚀 Frameworks and Libraries 🚀</h2>
 <br>
-<!--
+
 
 <div align="left">
     <div>
